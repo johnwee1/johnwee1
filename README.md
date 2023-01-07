@@ -1,3 +1,3 @@
 ### Hi there 👋
 
-- 🌱 I’m currently learning how to front end develop
+- 🌱 I’m currently an intern doing embedded systems programming
