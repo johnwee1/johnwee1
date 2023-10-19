@@ -5,6 +5,13 @@
 
 
 ### TODO List
-- Learn object detection with Pytorch/OpenCV
-- Learn React so that I can get around to learning backend too
+- Learn Haskell ✔️
+- Learn Scikit and related packages like numpy, pandas for basic ML, data augmentation ✔️
+- Use XGBoost with sklearn ✔️
+- Learn OpenCV basics with Haar Classifier ✔️
+- Learn React ✔️
+- Learn CI/CD ✔️
+- Learn deep learning with pytorch
+- Build React app / website
 - Learn Rust
+- Get good at CLI / bash
