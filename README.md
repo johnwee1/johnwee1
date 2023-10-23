@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-- 🤠 college engineering freshman
+- 🤠 studying renaissance engineering (CS) at NTU
 - 🌱 Welcome to a place to park stuff that I do when I have free time in between college commitments
 
 
@@ -14,4 +14,4 @@
 - Learn deep learning with pytorch
 - Build React app / website
 - Learn Rust
-- Get good at CLI / bash
+- Get good at CLI / bash scripting
