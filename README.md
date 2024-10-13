@@ -6,13 +6,14 @@
 
 
 ### TODO List
-- Learn in depth CI/CD + docker
+- Learn networking
+- Familiarize myself with cloud infra + system design + other middleware
+- Learn in depth CI/CD
 - Learn JAX
-- Familiarize myself with AWS and cloud related concepts
-- Learn Docker and related containerization concepts
-- Build React/Electron app (ongoing ?!)
+- Learn Docker and related containerization concepts ✔️
+- Build React/Electron app (on hold)
 - Learn Rust
 - Play around with huggingface libraries and LLM tools ✔️
 - Learn Haskell ✔️
-- ML related: scikit, numpy, pandas, xgboost, pytorch✔️
+- ML related: scikit, numpy, pandas, xgboost, pytorch ✔️
 - Get good at CLI ✔️
