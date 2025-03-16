@@ -7,15 +7,14 @@
 
 
 ### TODO List
+- Learn Go
 - Familiarize myself with cloud infra + system design + other middleware
 - Learn networking
-- Learn in depth CI/CD
 - Learn JAX
-- Learn Go
 - Learn Rust
 - Roll a unified dotfile config for tmux and nvim
 - Learn Docker and related containerization concepts ✔️
-- Build React/Electron app (on hold)
+- Learn React ✔️
 - Play around with huggingface libraries and LLM tools ✔️
 - Learn Haskell ✔️
 - ML related: scikit, numpy, pandas, xgboost, pytorch ✔️
