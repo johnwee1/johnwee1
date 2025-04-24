@@ -7,12 +7,9 @@
 
 
 ### TODO List
-- Learn Go
-- Familiarize myself with cloud infra + system design + other middleware
+- Learn Modern C++
 - Learn networking
-- Learn JAX
-- Learn Rust
-- Roll a unified dotfile config for tmux and nvim
+- Languages: Rust, Go
 - Learn Docker and related containerization concepts ✔️
 - Learn React ✔️
 - Play around with huggingface libraries and LLM tools ✔️
